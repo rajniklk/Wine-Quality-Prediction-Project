@@ -36,7 +36,7 @@ Wine Quality Prediction with PCA & LDA Algorithms
 * Visualising the Training set results
 * Visualising the Test set results
 
-# Conclusion
+## Conclusion
 
 ## Visualization using LDA Algorithm
 
