@@ -1,6 +1,6 @@
 # Wine Quality Prediction Project
 
-![ways-stop-spam-email-message-robocalls-1068x7132](https://user-images.githubusercontent.com/35190179/93072803-8cc25380-f69f-11ea-96aa-90f2448c7915.jpg)
+![22](https://user-images.githubusercontent.com/35190179/93073287-47525600-f6a0-11ea-996d-7c84899754b7.jpg)
 
 ## About wine
 * Wine is a beverage made from fermented grape and other fruit juices with lower amount of alcohol content. 
