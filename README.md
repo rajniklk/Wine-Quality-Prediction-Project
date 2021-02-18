@@ -1,5 +1,7 @@
 # Wine Quality Prediction Project
 
+![ways-stop-spam-email-message-robocalls-1068x7132](https://user-images.githubusercontent.com/35190179/93072803-8cc25380-f69f-11ea-96aa-90f2448c7915.jpg)
+
 ## About wine
 * Wine is a beverage made from fermented grape and other fruit juices with lower amount of alcohol content. 
 * Quality of wine is graded based on the taste of wine and vintage. This process is time taking, costly and not efficient. 
